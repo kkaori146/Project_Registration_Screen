@@ -1,4 +1,4 @@
-*{
+* {
     box-sizing: border-box;
 }
 body {
@@ -23,7 +23,7 @@ body {
     background-color: #DDD;
     padding: 50px;
 }
-.rightside label{
+.rightside label {
     display: block;
     margin-bottom: 20px;
 }
@@ -34,4 +34,12 @@ body {
     padding: 8px;
     font-size: 14px;
     outline: 0;
+}
+
+.error {
+    font-size: 11px;
+    background-color: #FF0000;
+    color: #FFF;
+    padding: 4px;
+    border-radius: 5px;
 }
